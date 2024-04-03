@@ -1,0 +1,30 @@
+.page-loader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.368627451);
+  z-index: 1000;
+}
+.page-loader > .spinner-border {
+  color: #ffffff !important;
+}
+
+.real-estates img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.real-estates ul {
+  padding-left: 20px;
+}
+
+.cities img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}/*# sourceMappingURL=style.css.map */
